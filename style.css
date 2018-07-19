@@ -1,4 +1,6 @@
-body { background-color: lightblue; }
-p { color: red; font-style: italic; }
+body { background-color: #262626; text-align:center; }
+p { color: #00FFF0; }
+h2 { color: #3D6E99; }
+h1 { color: #1475CC; font-style: bold; }
 a : link { color: hotpink; }
 a : visited { color: green; }
