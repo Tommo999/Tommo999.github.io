@@ -1,0 +1,13 @@
+{
+"companyName": "Tom Mc Development",
+"productName": "NecroHorde",
+"dataUrl": "NecroHorde web.data.unityweb",
+"asmCodeUrl": "NecroHorde web.asm.code.unityweb",
+"asmMemoryUrl": "NecroHorde web.asm.memory.unityweb",
+"asmFrameworkUrl": "NecroHorde web.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#828080"
+}
